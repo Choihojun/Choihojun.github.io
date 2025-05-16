@@ -1,18 +1,18 @@
 {
   "basics": {
     "name": "Hojun Choi",
-    "label": "Scientist",
+    "label": "PhD Student",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "hchoi8@huskers.unl.edu",
+    "phone": "",
+    "url": "",
+    "summary": "I am a PhD student in the Department of Computer Science and Engineering at the University of Nebraska-Lincoln. My research interests include automotive IoT (e.g., V2X, energy harvesting, and automatic/reconfigurable system and circuit design)",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "address": "1400 R Street",
+      "postalCode": "68588",
+      "city": "Lincoln",
       "countryCode": "US",
-      "region": "California"
+      "region": "Nebraska"
     },
     "profiles": [
       {
